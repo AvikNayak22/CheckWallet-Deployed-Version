@@ -1,6 +1,6 @@
 # CheckWallet
 
-CheckWallet is a simple expense tracking web application built using React for the frontend, Express for the backend, and MongoDB as the database.
+CheckWallet is a web application that allows users to manage their transactions, track expenses, and analyze financial data.
 
 ![checkwallet](https://github.com/AvikNayak22/CheckWallet/assets/110925067/77cfd821-0fe8-4266-82bb-023621edd5f5)
 
