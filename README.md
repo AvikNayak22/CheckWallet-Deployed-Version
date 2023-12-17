@@ -53,7 +53,7 @@ CheckWallet is a web application that allows users to manage their transactions,
    npm install
    ```
    ```
-   cd ../server
+   cd ..
    npm install
    ```
 4. Create a `.env` file in the `server` directory with the following content:
